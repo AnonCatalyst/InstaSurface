@@ -9,7 +9,6 @@ with ease. Get started with InstaSurface today! 😊📷
 
 1. **Profile Search Function:**
     - Fetches profile details such as username, full name, biography, and more.
-    - Handles business account information if available.
 
 2. **Example Usage:**
     - Enter an Instagram username to view profile information.
