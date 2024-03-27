@@ -1,6 +1,12 @@
 # InstaSurface
 
-Welcome to InstaSurface! Your tool for fetching Instagram profile info without login. Explore usernames and uncover key insights with ease. Get started today! 😊📷
+Welcome to InstaSurface!
+InstaSurface is your go-to tool for quickly fetching essential
+information from Instagram profiles without the
+need to log in. It provides you with surface-level details,
+ensuring a seamless experience while respecting privacy.
+Explore usernames effortlessly and uncover key profile insights
+with ease. Get started with InstaSurface today! 😊📷
 
 ## Script Explanation
 
